@@ -1,9 +1,9 @@
 # Our mission
-We aim to make the world a better place to live in, by make sure that every sudent has a safe passage to KFUPM.
+We aim to make KFUPM a better place to live in, by make sure that every KFUPMer has a easy passage to KFUPM.
 
 # Our idea
 Our app idea is to provide an experience not like any other. 
-We are offering students who want to drive to drive, and students who want to ride to ride, and students who want to walk to never have to walk again.
+We are offering students who want to drive to drive, and students who want to ride to ride, and students who have to walk to never have to walk again.
 
 # Our team
 We have a team of 5 people.
